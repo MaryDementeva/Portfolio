@@ -6,6 +6,6 @@
 - построена и обучена модель U-Net (PyTorch),
 - выполнена визуализация исходных объектов и предсказанных масок
 
-Скрипт выполнения задания в формате .py в [файле](training_projects/U_Net_segmentation/13_1_CV2_segm.ipynb).  
+Скрипт выполнения задания в формате .py в [файле](training_projects/U_Net_segmentation/13_1_cv2_segm.py).  
 Выполненное задание с полученными результатами в формате .ipynb в [файле](training_projects/U_Net_segmentation/13_1_CV2_segm.ipynb).   
 Вспомогательный файл генерации огружностей расположен в [файле](training_projects/U_Net_segmentation/circle_generation.py), комментарии по его применению даны в основном файле с заданием.
