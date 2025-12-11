@@ -6,6 +6,6 @@
 - построена и обучена модель U-Net (PyTorch),
 - выполнена визуализация исходных объектов и предсказанных масок
 
-Скрипт выполнения задания в формате .py в [файле](training_projects/U_Net_segmentation/13_1_CV2_segm.ipynb).
-Выполненное задание с полученными результатами в формате .ipynb в [файле](training_projects/U_Net_segmentation/13_1_CV2_segm.ipynb).
+Скрипт выполнения задания в формате .py в [файле](training_projects/U_Net_segmentation/13_1_CV2_segm.ipynb).  
+Выполненное задание с полученными результатами в формате .ipynb в [файле](training_projects/U_Net_segmentation/13_1_CV2_segm.ipynb). 
 Вспомогательные файлы расположены в [папке](training_projects/U_Net_segmentation), комментарии по их применению даны в основном файле с заданием.
